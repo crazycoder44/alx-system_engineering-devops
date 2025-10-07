@@ -18,3 +18,8 @@ Prints `hello user`, where user is the current Linux user.
 **File:** `2-path`
 
 Adds `/action` to the PATH. `/action` is the last directory the shell looks into when looking for a program.
+
+### 3. If the path be beautiful, let us not ask where it leads
+**File:** `3-paths`
+
+Counts the number of directories in the PATH.
